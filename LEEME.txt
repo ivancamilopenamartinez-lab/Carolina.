@@ -1,0 +1,12 @@
+ACTUALIZAR LA PÁGINA DE CAROLINA
+
+1. Haz una copia de seguridad de los archivos actuales del repositorio.
+2. Abre este ZIP y extrae sus archivos.
+3. Sube los archivos index.html y Carolina.mp3 a la raíz del repositorio GitHub llamado Carolina, reemplazando los dos archivos antiguos.
+4. Confirma los cambios (Commit changes). GitHub Pages actualizará la página cuando termine la publicación.
+5. Abre https://ivancamilopenamartinez-lab.github.io/Carolina/ y prueba el botón “Abrir esta carta”, los botones de Spotify, el reproductor y el botón “Volver arriba”.
+
+IMPORTANTE: Carolina.mp3 debe quedar junto a index.html y conservar exactamente ese nombre. El archivo de audio es el original, sin modificar.
+Las canciones comerciales tienen botones de búsqueda en Spotify; no están incorporadas directamente por derechos de autor.
+
+La opción “Compartir esta página” fue eliminada a petición del autor.
